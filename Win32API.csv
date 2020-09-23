@@ -1,0 +1,358 @@
+Element Name,Windows NT,Windows,Windows CE,Win32s,Component,Component Version,Header File,Import Library,Unicode,Element Type
+ADsBuildEnumerator,4.0 or later,,,,ADSI,,adshlp.h,,,function
+ADsBuildVarArrayInt,4.0 or later,,,,ADSI,,adshlp.h,,,function
+ADsBuildVarArrayStr,4.0 or later,,,,ADSI,,adshlp.h,,,function
+ADsEnumerateNext,4.0 or later,,,,ADSI,,adshlp.h,,,function
+ADsFreeEnumerator,4.0 or later,,,,ADSI,,adshlp.h,,,function
+ADsGetLastError,4.0 or later,,,,ADSI,,adshlp.h,,,function
+ADsGetObject,4.0 or later,,,,ADSI,,adshlp.h,,,function
+ADsOpenObject,4.0 or later,,,,ADSI,,adshlp.h,,,function
+ADsSetLastError,4.0 or later,,,,ADSI,,adshlp.h,,,function
+IADs::Get,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADs::GetInfo,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADs::GetInfoEx,4.0 SP2 or later,,,,ADSI,,iads.h,,,interface method
+IADs::Put,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADs::SetInfo,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADs::SetInfoEx,4.0 SP2 or later,,,,ADSI,,iads.h,,,interface method
+IADsClass::Qualifiers,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsCollection::Add,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsCollection::get_NewEnum,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsCollection::GetObject,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsCollection::Remove,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsComputerOperations,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsComputerOperations::Shutdown,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsContainer::CopyHere,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsContainer::Create,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsContainer::Delete,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsContainer::get_NewEnum,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsContainer::GetObject,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsContainer::MoveHere,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsFileServiceOperations::Resources,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsFileServiceOperations::Sessions,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsGroup::Add,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsGroup::IsMember,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsGroup::Members,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsGroup::Remove,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsMembers::get_NewEnum,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsOpenDSObject::OpenDSObject,4.0 SP2 or later,,,,ADSI,,iads.h,,,interface method
+IADsPrintJobOperations::Pause,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsPrintJobOperations::Resume,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsPrintQueueOperations::Pause,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsPrintQueueOperations::PrintJobs,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsPrintQueueOperations::Purge,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsPrintQueueOperations::Resume,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsProperty::Qualifiers,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsServiceOperations::Continue,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsServiceOperations::Pause,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsServiceOperations::SetPassword,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsServiceOperations::Start,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsServiceOperations::Stop,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsUser::ChangePassword,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsUser::Groups,4.0 or later,,,,ADSI,,iads.h,,,interface method
+IADsUser::SetPassword,4.0 or later,,,,ADSI,,iads.h,,,interface method
+ADSI Collection Object,4.0 or later,,,,ADSI,,,,,object
+ADSI Computer Object,4.0 or later,,,,ADSI,,,,,object
+ADSI Container Object,4.0 or later,,,,ADSI,,,,,object
+ADSI Country Object,4.0 or later,,,,ADSI,,,,,object
+ADSI Domain Object,4.0 or later,,,,ADSI,,,,,object
+ADSI Enumerator Object,4.0 or later,,,,ADSI,,,,,object
+ADSI FileShare Object,4.0 or later,,,,ADSI,,,,,object
+ADSI Group Object,4.0 or later,,,,ADSI,,,,,object
+ADSI Locality Object,4.0 or later,,,,ADSI,,,,,object
+ADSI Members Object,4.0 or later,,,,ADSI,,,,,object
+ADSI Namespace Object,4.0 or later,,,,ADSI,,,,,object
+ADSI Namespaces Object,4.0 or later,,,,ADSI,,,,,object
+ADSI Object,4.0 or later,,,,ADSI,,,,,object
+ADSI Organization Object,4.0 or later,,,,ADSI,,,,,object
+ADSI OrganizationalUnit Object,4.0 or later,,,,ADSI,,,,,object
+ADSI PrintJob Object,4.0 or later,,,,ADSI,,,,,object
+ADSI PrintQueue Object,4.0 or later,,,,ADSI,,,,,object
+ADSI Property Object,4.0 or later,,,,ADSI,,,,,object
+ADSI Resource Object,4.0 or later,,,,ADSI,,,,,object
+ADSI Schema Class Object,4.0 or later,,,,ADSI,,,,,object
+ADSI Schema Container Object,4.0 or later,,,,ADSI,,,,,object
+ADSI Service Object,4.0 or later,,,,ADSI,,,,,object
+ADSI Session Object,4.0 or later,,,,ADSI,,,,,object
+ADSI Syntax Object,4.0 or later,,,,ADSI,,,,,object
+ADSI User Object,4.0 or later,,,,ADSI,,,,,object
+BPCVid.BlackedOut,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.CAFail,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.CAFault,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.CannotPurchase,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.CardInvalid,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.CardMissing,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.CASuccess,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.Click,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.ColdStart,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.CopyCard,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.CostExceeded,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.DblClick,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.EPGFilterChanged,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.Error,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.ErrorMessage,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.GotControl,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.HandlePurchaseOffer,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.KeyDown,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.KeyPress,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.KeyUp,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.LostControl,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.MouseDown,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.MouseMove,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.MouseUp,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.NewEmail,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.NoSubscriber,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.NotReady,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.OSDRequest,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.PasswordCleared,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.RatingExceeded,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.Ready,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.Retry,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.RevokeEvent,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.SignalLost,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.StateChange,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.TapingControlChanged,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+BPCVid.TuningChanged,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,event
+EnhCtrl.DisplayOverlay,,Windows 98,,,Broadcast Architecture,,,Entrig.dll,,event
+EnhCtrl.HideOverlay,,Windows 98,,,Broadcast Architecture,,,Entrig.dll,,event
+EnhCtrl.OnNewOverlay,,Windows 98,,,Broadcast Architecture,,,Entrig.dll,,event
+EnhCtrl.OnRemoveOverlay,,Windows 98,,,Broadcast Architecture,,,Entrig.dll,,event
+BpcAdapterCaps,,Windows 98,,,Broadcast Architecture,,Bpc.h,Msbpc.dll,,function
+BpcAdapterSpecific,,Windows 98,,,Broadcast Architecture,,Bpc.h,Msbpc.dll,,function
+BpcBufferReturn,,Windows 98,,,Broadcast Architecture,,Bpc.h,Msbpc.dll,,function
+BpcClose,,Windows 98,,,Broadcast Architecture,,Bpc.h,Msbpc.dll,,function
+BpcCloseConnection,,Windows 98,,,Broadcast Architecture,,Bpc.h,Msbpc.dll,,function
+BpcCommitConnections,,Windows 98,,,Broadcast Architecture,,Bpc.h,Msbpc.dll,,function
+BpcCommitState,,Windows 98,,,Broadcast Architecture,,,Msbpc.dll,,function
+BPCCompleteCommand,,Windows 98,,,Broadcast Architecture,,Bpcmini.h,BPCMini.lib,,function
+BpcConnectionStatus,,Windows 98,,,Broadcast Architecture,,Bpc.h,Msbpc.dll,,function
+BpcDeviceCaps,,Windows 98,,,Broadcast Architecture,,Bpc.h,Msbpc.dll,,function
+BpcDeviceSettings,,Windows 98,,,Broadcast Architecture,,Bpc.h,Msbpc.dll,,function
+BpcEnableConnection,,Windows 98,,,Broadcast Architecture,,Bpc.h,Msbpc.dll,,function
+BpcEnableNoCollect,,Windows 98,,,Broadcast Architecture,,,Msbpc.dll,,function
+BpcEnumAdapters,,Windows 98,,,Broadcast Architecture,,Bpc.h,Msbpc.dll,,function
+BpcEnumDevices,,Windows 98,,,Broadcast Architecture,,Bpc.h,Msbpc.dll,,function
+BPCFreeMemory,,Windows 98,,,Broadcast Architecture,,Bpcmem.h,BPCMini.lib,,function
+BPCGetCurrentConnectionForDevice,,Windows 98,,,Broadcast Architecture,,Bpcconn.h,BPCMini.lib,,function
+BpcGetLastError,,Windows 98,,,Broadcast Architecture,,Bpc.h,Msbpc.dll,,function
+BPCGetNewConnectionForDevice,,Windows 98,,,Broadcast Architecture,,Bpcconn.h,BPCMini.lib,,function
+BPCIndicateStatus,,Windows 98,,,Broadcast Architecture,,Bpcmini.h,BPCMini.lib,,function
+BpcIoControl,,Windows 98,,,Broadcast Architecture,,Bpc.h,Msbpc.dll,,function
+BPCListCount,,Windows 98,,,Broadcast Architecture,,Bpclist.h,BPCMini.lib,,function
+BPCListCreate,,Windows 98,,,Broadcast Architecture,,Bpclist.h,BPCMini.lib,,function
+BPCListDelete,,Windows 98,,,Broadcast Architecture,,Bpclist.h,BPCMini.lib,,function
+BPCListGet,,Windows 98,,,Broadcast Architecture,,Bpclist.h,BPCMini.lib,,function
+BPCListIsrGet,,Windows 98,,,Broadcast Architecture,,Bpclist.h,BPCMini.lib,,function
+BPCListIsrPop,,Windows 98,,,Broadcast Architecture,,Bpclist.h,BPCMini.lib,,function
+BPCListIsrPush,,Windows 98,,,Broadcast Architecture,,Bpclist.h,BPCMini.lib,,function
+BPCListIsrPut,,Windows 98,,,Broadcast Architecture,,Bpclist.h,BPCMini.lib,,function
+BPCListIsrRemoveEntry,,Windows 98,,,Broadcast Architecture,,Bpclist.h,BPCMini.lib,,function
+BPCListPop,,Windows 98,,,Broadcast Architecture,,Bpclist.h,BPCMini.lib,,function
+BPCListPush,,Windows 98,,,Broadcast Architecture,,Bpclist.h,BPCMini.lib,,function
+BPCListPut,,Windows 98,,,Broadcast Architecture,,Bpclist.h,BPCMini.lib,,function
+BPCListRemoveEntry,,Windows 98,,,Broadcast Architecture,,Bpclist.h,BPCMini.lib,,function
+BpcOpen,,Windows 98,,,Broadcast Architecture,,Bpc.h,Msbpc.dll,,function
+BpcOpenConnection,,Windows 98,,,Broadcast Architecture,,Bpc.h,Msbpc.dll,,function
+BpcPoolFree,,Windows 98,,,Broadcast Architecture,,Bpc.h,Msbpc.dll,,function
+BpcPoolInformation,,Windows 98,,,Broadcast Architecture,,Bpc.h,Msbpc.dll,,function
+BpcPoolReserve,,Windows 98,,,Broadcast Architecture,,Bpc.h,Msbpc.dll,,function
+BpcProgramGuide,,Windows 98,,,Broadcast Architecture,,Bpc.h,Msbpc.dll,,function
+BpcProviderSpecific,,Windows 98,,,Broadcast Architecture,,Bpc.h,Msbpc.dll,,function
+BpcReceive,,Windows 98,,,Broadcast Architecture,,Bpc.h,Msbpc.dll,,function
+BpcRetuneConnection,,Windows 98,,,Broadcast Architecture,,Bpc.h,Msbpc.dll,,function
+BPCSetCurrentConnectionForDevice,,Windows 98,,,Broadcast Architecture,,Bpcconn.h,BPCMini.lib,,function
+BpcUnsolicitedEvent,,Windows 98,,,Broadcast Architecture,,Bpc.h,Msbpc.dll,,function
+BPCUpdateMpg,,Windows 98,,,Broadcast Architecture,,Bpcmini.h,BPCMini.lib,,function
+CardDisableInterrupt,,Windows 98,,,Broadcast Architecture,,user-defined,user-defined,,function
+CardEnableInterrupt,,Windows 98,,,Broadcast Architecture,,user-defined,user-defined,,function
+CardHalt,,Windows 98,,,Broadcast Architecture,,user-defined,user-defined,,function
+CardHandleInterrupt,,Windows 98,,,Broadcast Architecture,,user-defined,user-defined,,function
+CardIsr,,Windows 98,,,Broadcast Architecture,,user-defined,user-defined,,function
+ConnectionFromDevice,,Windows 98,,,Broadcast Architecture,,Bpcconn.h,BPCMini.lib,,function
+FreeDFPFrame,,Windows 98,,,Broadcast Architecture,,Bpcmem.h,BPCMini.lib,,function
+IndicateDFPFrame,,Windows 98,,,Broadcast Architecture,,Bpcmem.h,BPCMini.lib,,function
+IsPermitted,,Windows 98,,,Broadcast Architecture,,Tssqsec.h,Tssqsec.dll,,function
+Login,,Windows 98,,,Broadcast Architecture,,Tssqsec.h,Tssqsec.dll,,function
+Logout,,Windows 98,,,Broadcast Architecture,,Tssqsec.h,Tssqsec.dll,,function
+msbdnBridgeReportEvent,5.0 or later,,,,Broadcast Architecture,,Bridge.h,Bdnapi.lib,,function
+msbdnOutputCreate,5.0 or later,,,,Broadcast Architecture,,Bridge.h,user-defined,,function
+msbdnOutputDestroy,5.0 or later,,,,Broadcast Architecture,,Bridge.h,user-defined,,function
+msbdnOutputFreeBuffer,5.0 or later,,,,Broadcast Architecture,,Bridge.h,user-defined,,function
+msbdnOutputGetStatus,5.0 or later,,,,Broadcast Architecture,,Bridge.h,user-defined,,function
+msbdnOutputGetValue,5.0 or later,,,,Broadcast Architecture,,Bridge.h,user-defined,,function
+msbdnOutputGetValueCount,5.0 or later,,,,Broadcast Architecture,,Bridge.h,user-defined,,function
+msbdnOutputSendPacket,5.0 or later,,,,Broadcast Architecture,,Bridge.h,user-defined,,function
+msbdnOutputSetValue,5.0 or later,,,,Broadcast Architecture,,Bridge.h,user-defined,,function
+NsBPCAllocate,,Windows 98,,,Broadcast Architecture,,Bpcmem.h,BPCMini.lib,,function
+NsCardCreateDataDevice,,Windows 98,,,Broadcast Architecture,,user-defined,user-defined,,function
+NsCardCreateTuner,,Windows 98,,,Broadcast Architecture,,user-defined,user-defined,,function
+NsCardDisableTuner,,Windows 98,,,Broadcast Architecture,,user-defined,user-defined,,function
+NsCardEnableTuner,,Windows 98,,,Broadcast Architecture,,user-defined,user-defined,,function
+NsCardEntry,,Windows 98,,,Broadcast Architecture,,user-defined,user-defined,,function
+NsCardExtensionCommand,,Windows 98,,,Broadcast Architecture,,user-defined,user-defined,,function
+NsCardGetMPG,,Windows 98,,,Broadcast Architecture,,user-defined,user-defined,,function
+NsCardInitialize,,Windows 98,,,Broadcast Architecture,,user-defined,user-defined,,function
+NsCardSetInterrupts,,Windows 98,,,Broadcast Architecture,,user-defined,user-defined,,function
+NsCardSetMemoryRanges,,Windows 98,,,Broadcast Architecture,,user-defined,user-defined,,function
+NsCardSetPortRanges,,Windows 98,,,Broadcast Architecture,,user-defined,user-defined,,function
+NsCardSetSubSCIDs,,Windows 98,,,Broadcast Architecture,,user-defined,user-defined,,function
+NsCardStartDataStream,,Windows 98,,,Broadcast Architecture,,user-defined,user-defined,,function
+NsCardStopDataStream,,Windows 98,,,Broadcast Architecture,,user-defined,user-defined,,function
+NsCardTune,,Windows 98,,,Broadcast Architecture,,user-defined,user-defined,,function
+NsGetDFPPhysicalBuffer,,Windows 98,,,Broadcast Architecture,,Bpcmem.h,BPCMini.lib,,function
+PacketBufferComplete,5.0 or later,,,,Broadcast Architecture,,Packet.h,Bdnapi.lib,,function
+UnmapDFPFrame,,Windows 98,,,Broadcast Architecture,,Bpcmem.h,BPCMini.lib,,function
+IBitmaskProperty::IBitmaskProperty,,Windows 98,,,Broadcast Architecture,,Icodec.h,Icodec.lib,,interface method
+IEPGEpisode::AbbreviatedTitle,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGEpisode::CallLetters,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGEpisode::ChannelID,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGEpisode::EpisodeID,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGEpisode::HasEnhancement,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGEpisode::IsContinuous,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGEpisode::IsListGuideItem,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGEpisode::IsOnLater,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGEpisode::IsOnSoon,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGEpisode::IsPurchasable,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGEpisode::IsPurchaseItem,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGEpisode::IsRecordItem,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGEpisode::IsRemindItem,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGEpisode::Layout,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGEpisode::PayPerView,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGEpisode::PPVCanBeCancelled,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGEpisode::PPVTapeCost,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGEpisode::PPVTokenAddress,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGEpisode::PPVViewCost,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGEpisode::PurchaseIdx,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGEpisode::RatingID,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGEpisode::RemindRecordIdx,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGEpisode::Repetition,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGEpisode::ThemeID,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGEpisode::TimeSlotID,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGItem::BodyText,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGItem::EndTime,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGItem::GetIcon,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGItem::GetOption,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGItem::Length,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGItem::NumIcons,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGItem::NumOptions,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGItem::OnNow,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGItem::OptionPrompt,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGItem::PreviewGraphic,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGItem::StartTime,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGItem::Title,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IEPGItem::TuningInfo,,Windows 98,,,Broadcast Architecture,,Itvx.h,user-defined,,interface method
+IKSDriver::IKSDriver,,Windows 98,,,Broadcast Architecture,,Iks.h,Icodec.lib,,interface method
+IKSDriver::Ioctl,,Windows 98,,,Broadcast Architecture,,Iks.h,Icodec.lib,,interface method
+IKSDriver::IsValid,,Windows 98,,,Broadcast Architecture,,Iks.h,Icodec.lib,,interface method
+IKSDriver::QueryPin,,Windows 98,,,Broadcast Architecture,,Iks.h,Icodec.lib,,interface method
+IKSDriver::QueryProperty,,Windows 98,,,Broadcast Architecture,,Iks.h,Icodec.lib,,interface method
+IKSPin::GetOverlappedResult,,Windows 98,,,Broadcast Architecture,,Iks.h,Icodec.lib,,interface method
+IKSPin::IKSPin,,Windows 98,,,Broadcast Architecture,,Iks.h,Icodec.lib,,interface method
+IKSPin::Ioctl,,Windows 98,,,Broadcast Architecture,,Iks.h,Icodec.lib,,interface method
+IKSPin::IsRunning,,Windows 98,,,Broadcast Architecture,,Iks.h,Icodec.lib,,interface method
+IKSPin::IsValid,,Windows 98,,,Broadcast Architecture,,Iks.h,Icodec.lib,,interface method
+IKSPin::QueryProperty,,Windows 98,,,Broadcast Architecture,,Iks.h,Icodec.lib,,interface method
+IKSPin::ReadData,,Windows 98,,,Broadcast Architecture,,Iks.h,Icodec.lib,,interface method
+IKSPin::Run,,Windows 98,,,Broadcast Architecture,,Iks.h,Icodec.lib,,interface method
+IKSPin::Stop,,Windows 98,,,Broadcast Architecture,,Iks.h,Icodec.lib,,interface method
+IKSProperty::GetValue,,Windows 98,,,Broadcast Architecture,,Iks.h,Icodec.lib,,interface method
+IKSProperty::IKSProperty,,Windows 98,,,Broadcast Architecture,,Iks.h,Icodec.lib,,interface method
+IKSProperty::IsValid,,Windows 98,,,Broadcast Architecture,,Iks.h,Icodec.lib,,interface method
+IKSProperty::SetValue,,Windows 98,,,Broadcast Architecture,,Iks.h,Icodec.lib,,interface method
+IScanlinesProperty::IScanlinesProperty,,Windows 98,,,Broadcast Architecture,,Icodec.h,Icodec.lib,,interface method
+IScheduledItems::Add,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+IScheduledItems::AddFromQuery,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+IScheduledItems::get__NewEnum,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+IScheduledItems::get_Count,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+IScheduledItems::Item,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+IScheduledItems::Remove,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+ISubstreamsProperty::ISubstreamsProperty,,Windows 98,,,Broadcast Architecture,,Icodec.h,Icodec.lib,,interface method
+ITelevisionServices::CreateUser,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+ITelevisionServices::DeleteEnhancementFromID,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+ITelevisionServices::DeleteOldEnhancements,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+ITelevisionServices::DeleteUser,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+ITelevisionServices::get_ClipboardFormat,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+ITelevisionServices::get_ClipboardFormatName,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+ITelevisionServices::get_DatabaseFile,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+ITelevisionServices::get_ScheduledItems,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+ITelevisionServices::get_SystemFile,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+ITelevisionServices::LoadEnhancement,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+ITelevisionServices::LoadEnhancementsFromFile,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+ITelevisionServices::MakeLocalBroadcastSchedule,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+ITelevisionServices::MakeRemoteBroadcastSchedule,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+ITelevisionServices::RemapEnhancements,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+ITelevisionServices::ResolveBroadcast,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+ITelevisionServices::ResolveBroadcastInclusively,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+ITelevisionServices::ResolveScheduledReminders,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+ITelevisionServices::RestrictionQueryName,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+ITelevisionServices::SplitBroadcastSchedule,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+ITelevisionServices::SplitSimpleBroadcastSchedule,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+ITelevisionServices::TuningSpaceNameFromNumber,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+ITelevisionServices::TuningSpaceNumberFromName,,Windows 98,,,Broadcast Architecture,,Tssadmin.odl,Tssadmin.dll,,interface method
+ITVControl::EnableVideo,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,user-defined,,interface method
+ITVControl::EpisodeStatusChanged,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,user-defined,,interface method
+ITVControl::GetCC,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,user-defined,,interface method
+ITVControl::OnIdle,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,user-defined,,interface method
+ITVControl::OnTVFocus,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,user-defined,,interface method
+ITVControl::PowerChange,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,user-defined,,interface method
+ITVControl::SetCC,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,user-defined,,interface method
+ITVControl::SetOutput,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,user-defined,,interface method
+ITVControl::SyncEvent,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,user-defined,,interface method
+ITVControl::TearDown,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,user-defined,,interface method
+ITVControl::Tune,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,user-defined,,interface method
+ITVViewer::ChannelList,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,tvx.exe,,interface method
+ITVViewer::DeleteReminder,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,tvx.exe,,interface method
+ITVViewer::GetCurrentTuningInfo,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,tvx.exe,,interface method
+ITVViewer::GetPreviousTuningInfo,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,tvx.exe,,interface method
+ITVViewer::GlobalEndTime,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,tvx.exe,,interface method
+ITVViewer::GlobalStartTime,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,tvx.exe,,interface method
+ITVViewer::HasEnhancement,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,tvx.exe,,interface method
+ITVViewer::HasReminder,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,tvx.exe,,interface method
+ITVViewer::IsCC,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,tvx.exe,,interface method
+ITVViewer::IsChannelBarUp,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,tvx.exe,,interface method
+ITVViewer::IsLoaderActive,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,tvx.exe,,interface method
+ITVViewer::IsModalDialogUp,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,tvx.exe,,interface method
+ITVViewer::IsTVMode,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,tvx.exe,,interface method
+ITVViewer::SetReminder,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,tvx.exe,,interface method
+ITVViewer::SetTVMode,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,tvx.exe,,interface method
+ITVViewer::Tune,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,tvx.exe,,interface method
+ITVViewer::ViewerID,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,tvx.exe,,interface method
+ITVViewer::WantKeys,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,Tvx.exe,,interface method
+ITVViewer::WantNumKeys,,Windows 98,,,Broadcast Architecture,,Tvdisp.odl,tvx.exe,,interface method
+IVBICodec::IsValid,,Windows 98,,,Broadcast Architecture,,Icodec.h,Icodec.lib,,interface method
+IVBICodec::IVBICodec,,Windows 98,,,Broadcast Architecture,,Icodec.h,Icodec.lib,,interface method
+IVBIOutputPin::IVBIOutputPin,,Windows 98,,,Broadcast Architecture,,Icodec.h,Icodec.lib,,interface method
+BPCDeviceBase.BuyItem,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCDeviceBase.CancelItem,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCDeviceBase.ChannelAvailable,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCDeviceBase.DisplayConfigDialog,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCDeviceBase.HandleCardChaining,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCDeviceBase.Pause,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCDeviceBase.Refresh,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCDeviceBase.ResetProviderSystem,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCDeviceBase.Run,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCDeviceBase.Stop,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCDeviceBase.Volume,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCDevices.AutoScan,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCDevices.Item,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCDevices.Login,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCDevices.Logout,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCDevices.Open,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCDevices.TSDeviceCount,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCDevices.VideoOn,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCEmailMessageCollection.Count,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCEmailMessageCollection.Item,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCEmailMessageCollection.MarkAsRead,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCHistoryItemsCollection.Count,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCHistoryItemsCollection.Item,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCSuspend.DeviceRelease,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCVid.AboutBox,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCVid.Close,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCVidSvrControl.VBIStatus,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+BPCVidSvrControl.VBITune,,Windows 98,,,Broadcast Architecture,,Vidsvr.odl,Vid.ocx,,method
+Event.Delete,,Windows 98,,,Broadcast Architecture,,Stream.idl,Stream.dll,,method
+Events.Add,,Windows 98,,,Broadcast Architecture,,Stream.idl,Stream.dll,,method
+Events.AddText,,Windows 98,,,Broadcast Architecture,,Stream.idl,Stream.dll,,method
+Events.Clear,,Windows 98,,,Broadcast Architecture,,Stream.idl,Stream.dll,,method
+Events.Flatten,,Windows 98,,,Broadcast Architecture,,Stream.idl,Stream.dll,,method
+Events.Load,,Windows 98,,,Broadcast Architecture,,Stream.idl,Stream.dll,,method
+Events.Store,,Windows 98,,,Broadcast Architecture,,Stream.idl,Stream.dll,,method
